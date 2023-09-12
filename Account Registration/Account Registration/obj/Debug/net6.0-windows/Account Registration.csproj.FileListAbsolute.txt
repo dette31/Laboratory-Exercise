@@ -1,0 +1,18 @@
+C:\Users\tomin\source\repos\Account Registration\Account Registration\bin\Debug\net6.0-windows\Account Registration.exe
+C:\Users\tomin\source\repos\Account Registration\Account Registration\bin\Debug\net6.0-windows\Account Registration.deps.json
+C:\Users\tomin\source\repos\Account Registration\Account Registration\bin\Debug\net6.0-windows\Account Registration.runtimeconfig.json
+C:\Users\tomin\source\repos\Account Registration\Account Registration\bin\Debug\net6.0-windows\Account Registration.dll
+C:\Users\tomin\source\repos\Account Registration\Account Registration\bin\Debug\net6.0-windows\Account Registration.pdb
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.csproj.AssemblyReference.cache
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account_Registration.FrmRegistration.resources
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.dll
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\refint\Account Registration.dll
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.pdb
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account Registration.genruntimeconfig.cache
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\ref\Account Registration.dll
+C:\Users\tomin\source\repos\Account Registration\Account Registration\obj\Debug\net6.0-windows\Account_Registration.FrmConfirm.resources
